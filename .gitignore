@@ -1,0 +1,15 @@
+# Default ignored files
+/shelf/
+/.idea/
+/node_modules/
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/redux-js.iml
+/.idea/vcs.xml
+/.idea/workspace.xml
+/package-lock.json
